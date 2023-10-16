@@ -5,8 +5,7 @@ We retrieved protein sequences of WT1 and its isoforms (accession no. P19544) fr
 
 # Epitope Prediction
 - T-cell (CTL) Epitopes: Predicted using NetCTL 1.2.
-- Helper T-cell (HTL) Epitopes: Predicted using NetMHCII 2.2.
-- Antigenicity and Allergenicity Prediction
+- Helper T-cell (HTL) Epitopes: Predicted using [NetMHCII 2.2](http://www.cbs.dtu.dk/services/NetMHCII/).
 - Antigenicity: Predicted using [Vaxijen v2.0](http://www.ddgpharmfac.net/).
 - Allergenicity: Predicted using AllerTOP v2.0.
 - Immunogenicity Prediction: Immunogenicity prediction was conducted using IEDB.
